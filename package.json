@@ -1,0 +1,22 @@
+{
+  "name": "com.renge.asset-retriever",
+  "version": "1.1.0",
+  "displayName": "Asset Retriever",
+  "description": "A quick way to download and import your favorite Unity Asset Store assets all at once.",
+  "unity": "2021.3",
+  "dependencies": {
+    "com.unity.nuget.newtonsoft-json": "3.0.2"
+  },
+  "keywords": [
+    "manage assets",
+    "download assets",
+    "import assets"
+  ],
+  "author": {
+    "name": "Sam Schiffer",
+    "email": "support@rengegames.com",
+    "url": "https://github.com/Renge-Games"
+  },
+  "type": "tool",
+  "_fingerprint": "f349fd0f8a2f0b695558a93470bb7eb01dde3935"
+}
