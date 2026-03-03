@@ -1,6 +1,5 @@
 # Unity Asset Retriever
 
-[![](https://dcbadge.vercel.app/api/server/SBKb9eFtfF)](https://discord.gg/SBKb9eFtfF)
 
 Create lists with your favorite Unity Asset Store assets and Download and Import them all at once with this tool.
 
@@ -10,7 +9,7 @@ Create lists with your favorite Unity Asset Store assets and Download and Import
 
 This is a package for Unity, so to install it, go to the package manager window and click on " + > Add package from git URL". Then paste the following link into the textbox that appears to add the package to your project.
 
-https://github.com/Renge-Games/UnityAssetRetriever.git
+https://github.com/IAFahim/UnityAssetRetriever.git
 
 ## Usage
 
